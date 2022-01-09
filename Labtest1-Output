@@ -1,0 +1,18 @@
+Welcome to C_MARTS shopping complex
+Enter the number of items : 3
+
+Enter the price of first item : RM24
+
+Enter the quantity of first item : 25
+Enter the price of second item : RM15
+
+Enter the quantity of second item : 23
+Enter the price of third item : RM52
+
+Enter the quantity of third item : 23
+First item price : 600.0
+Second item price : 345.0
+Second item price : 1196.0
+Total Price : 2141.0
+Discount recieved : 214.1
+Total Price After discount : 1926.9

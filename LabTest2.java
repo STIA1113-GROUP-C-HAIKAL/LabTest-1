@@ -17,7 +17,7 @@ public class LabTest2 {
 		System.out.print("Enter hours worked : ");
 		hours = sc.nextInt();
 		
-		double dailyWage =(double) 5 * hours;
+		double dailyWage =(double) wage * hours;
 		System.out.println("Daily wages : " + dailyWage);
 		
 		if ((sales >= 150) && (sales <= 300)) {

@@ -23,16 +23,19 @@ public class LabTest2 {
 		if ((sales >= 150) && (sales <= 300)) {
 			commission = (sales * 5) / 100;
 			System.out.println("Commission : " + commission);
+			System.out.println("Total : " + (commission + dailyWage));
 		}
 		
 		if ((sales >= 301) && (sales <= 500)) {
 			commission = (sales * 10) / 100;
 			System.out.println("Commission : " + commission);
+			System.out.println("Total : " + (commission + dailyWage));
 		}
 		
 		if (sales >500) {
 			commission = (sales * 15) / 100;
 			System.out.println("Commission : " + commission);
+			System.out.println("Total : " + (commission + dailyWage));
 		}
 	}
 
